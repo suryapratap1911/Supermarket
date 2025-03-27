@@ -1,7 +1,3 @@
-Here’s your refined README without the detailed code structure but keeping the **Code Structure Approach**, **Working**, and **Conclusion** sections clear and concise.  
-
----
-
 # **Supermarket Checkout System 🛒**  
 
 ## **Overview**  
@@ -74,11 +70,3 @@ This **Supermarket Checkout System** efficiently calculates purchase totals, app
 🔹 Support for different discount types (e.g., Buy 1 Get 1 Free).  
 🔹 Implement barcode scanning for real-world applications.  
 🔹 Add a graphical user interface (GUI) for better user interaction.  
-
-📌 **This project demonstrates the power of modular, well-structured OOP design in solving real-world retail problems.**  
-
-**Happy Coding & Shopping!** 🛒  
-
----
-
-This version keeps it **clean, professional, and well-structured** while avoiding redundancy. You can directly use it for your **Git README**. Let me know if you need any more tweaks! 😊🚀
