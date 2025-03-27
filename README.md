@@ -35,7 +35,7 @@ Let's say a customer buys: **"DABABA"** (i.e., Products: D, A, B, A, B, A)
 To test the system, run:  
 
 ```bash
-python supermarket_checkout.py
+python Supermarket.py
 ```
 
 Output:  
